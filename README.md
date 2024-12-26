@@ -53,5 +53,5 @@ En mi perfil encontrarás proyectos que reflejan mi pasión por el desarrollo de
 <br>
 Si te gustaría colaborar en emocionantes proyectos, ¡no dudes en ponerte en contacto conmigo! Estoy abierto a nuevas oportunidades y listo para contribuir con mi energía y habilidades.
 
-- 📧 **Correo**: herrera3299@hotmail.com.ar 
+- 📧 **Correo**: herrera3299@gmail.com.ar 
 - 💼 **LinkedIn**: Federico Herrera (https://www.linkedin.com/in/jesus-federico-d-herrera-057494165/)
